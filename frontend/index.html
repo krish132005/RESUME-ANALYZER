@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Analyzer | AI-Powered ATS Engine</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="bg-glow"></div>
+    
+    <nav>
+        <div class="container nav-content">
+            <div class="logo">
+                <i data-lucide="file-search" class="logo-icon"></i>
+                <span>Resume<span class="text-gradient">Analyzer</span></span>
+            </div>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="/docs" target="_blank" class="api-link">API Docs</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section class="hero">
+            <h1 class="hero-title">Screen Resumes with <span class="text-gradient">AI Precision</span></h1>
+            <p class="hero-subtitle">Upload your candidate resumes and get structured, actionable data in milliseconds. Powered by sophisticated NLP.</p>
+            
+            <div class="upload-container" id="drop-zone">
+                <div class="upload-box">
+                    <i data-lucide="upload-cloud" class="upload-icon"></i>
+                    <h3>Drag & drop resume here</h3>
+                    <p>Supports PDF, DOCX, and TXT files</p>
+                    <button class="btn btn-primary" id="browse-btn">Browse Files</button>
+                    <input type="file" id="file-input" hidden accept=".pdf,.docx,.doc,.txt">
+                </div>
+            </div>
+        </section>
+
+        <section id="results-section" class="results-hidden">
+            <div class="results-header">
+                <h2>Analysis Results</h2>
+                <button class="btn btn-secondary" id="reset-btn">
+                    <i data-lucide="rotate-ccw"></i> Analyze Another
+                </button>
+            </div>
+
+            <div class="results-grid">
+                <!-- Left Column: Primary Info -->
+                <div class="results-main">
+                    <div class="card person-card glass">
+                        <div class="person-header">
+                            <div class="avatar">
+                                <i data-lucide="user"></i>
+                            </div>
+                            <div class="person-info">
+                                <h2 id="res-name">Candidate Name</h2>
+                                <p id="res-title" class="title-text">Target Title</p>
+                            </div>
+                        </div>
+                        <div class="contact-grid" id="res-contact">
+                            <!-- Contact items injected here -->
+                        </div>
+                    </div>
+
+                    <div class="card glass">
+                        <div class="card-header">
+                            <i data-lucide="briefcase"></i>
+                            <h3>Professional Experience</h3>
+                        </div>
+                        <div id="res-experience" class="timeline">
+                            <!-- Experience items injected here -->
+                        </div>
+                    </div>
+
+                    <div class="card glass">
+                        <div class="card-header">
+                            <i data-lucide="graduation-cap"></i>
+                            <h3>Education</h3>
+                        </div>
+                        <div id="res-education" class="edu-list">
+                            <!-- Education items injected here -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Skills & Meta -->
+                <div class="results-side">
+                    <div class="card glass">
+                        <div class="card-header">
+                            <i data-lucide="zap"></i>
+                            <h3>Skills & Expertise</h3>
+                        </div>
+                        <div id="res-skills" class="skills-container">
+                            <!-- Skills injected here -->
+                        </div>
+                    </div>
+
+                    <div class="card glass">
+                        <div class="card-header">
+                            <i data-lucide="award"></i>
+                            <h3>Certifications & More</h3>
+                        </div>
+                        <div id="res-meta" class="meta-list">
+                            <!-- Meta items injected here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div id="loader" class="loader-hidden">
+            <div class="spinner"></div>
+            <p>Analyzing resume content...</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Resume Analyzer Engine. All rights reserved.</p>
+    </footer>
+
+    <script src="main.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
