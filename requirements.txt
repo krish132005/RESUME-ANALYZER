@@ -1,0 +1,11 @@
+pdfminer.six
+python-docx
+pdfplumber
+spacy
+nltk
+pandas
+uvicorn
+fastapi
+python-multipart
+# spaCy is optional — install if your Python version supports it:
+# pip install spacy && python -m spacy download en_core_web_sm

@@ -1,0 +1,224 @@
+{
+  "file": "sample_resume_1.txt",
+  "candidate_name": "John Michael Anderson",
+  "contact": {
+    "emails": [
+      "john.anderson@email.com"
+    ],
+    "phones": [
+      "+14155550198"
+    ],
+    "linkedin": "https://linkedin.com/in/john-m-anderson",
+    "github": "https://github.com/jmanderson",
+    "websites": [
+      "https://johnanderson.dev"
+    ]
+  },
+  "summary": "Results-driven software engineer with 7+ years of experience designing, developing, and\ndeploying scalable web applications. Proficient in Python, JavaScript, and cloud\ntechnologies. Passionate about clean code, agile methodologies, and mentoring junior developers.",
+  "skills": {
+    "Architecture": [
+      "Microservices"
+    ],
+    "Cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "Data/ML": [
+      "Data Engineering",
+      "Machine Learning",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "TensorFlow"
+    ],
+    "Database": [
+      "Elasticsearch",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "DevOps/Tools": [
+      "Apache",
+      "Bash",
+      "CI/CD",
+      "Docker",
+      "Git",
+      "Jenkins",
+      "Jira",
+      "Kafka",
+      "Kubernetes",
+      "Linux",
+      "Postman",
+      "Terraform",
+      "VS Code"
+    ],
+    "Framework": [
+      "Angular",
+      "Django",
+      "Express.js",
+      "FastAPI",
+      "Flask",
+      "Node.js",
+      "REST API",
+      "React"
+    ],
+    "Methodology": [
+      "Agile",
+      "Scrum"
+    ],
+    "Programming": [
+      "Go",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "Testing": [
+      "Unit Testing"
+    ],
+    "Web": [
+      "CSS",
+      "HTML"
+    ]
+  },
+  "skills_list": [
+    "AWS",
+    "Agile",
+    "Angular",
+    "Apache",
+    "Azure",
+    "Bash",
+    "CI/CD",
+    "CSS",
+    "Data Engineering",
+    "Django",
+    "Docker",
+    "Elasticsearch",
+    "Express.js",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Git",
+    "Go",
+    "HTML",
+    "JavaScript",
+    "Jenkins",
+    "Jira",
+    "Kafka",
+    "Kubernetes",
+    "Linux",
+    "Machine Learning",
+    "Microservices",
+    "MongoDB",
+    "MySQL",
+    "NLP",
+    "Node.js",
+    "NumPy",
+    "Pandas",
+    "PostgreSQL",
+    "Postman",
+    "Python",
+    "REST API",
+    "React",
+    "Redis",
+    "SQL",
+    "Scikit-learn",
+    "Scrum",
+    "TensorFlow",
+    "Terraform",
+    "TypeScript",
+    "Unit Testing",
+    "VS Code"
+  ],
+  "experience": [
+    {
+      "company": "Google LLC",
+      "title": "Senior Software Engineer",
+      "dates": {
+        "start_date": "Jan 2021",
+        "end_date": "Present"
+      },
+      "description": "- Led development of a high-throughput data pipeline processing 10M+ events/day using Python and Apache Kafka\n- Architected microservices on GCP using Docker, Kubernetes, and Terraform\n- Mentored a team of 4 junior engineers, conducting code reviews and pair programming sessions\n- Improved API response time by 40% through Redis caching and query optimization\n- Technologies: Python, Go, GCP, Kubernetes, Docker, Kafka, Redis, PostgreSQL"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "title": "Software Engineer",
+      "dates": {
+        "start_date": "Jun 2018",
+        "end_date": "Dec 2020"
+      },
+      "description": "- Built RESTful APIs using Django and Flask for internal analytics platform\n- Developed interactive dashboards with React.js and D3.js for real-time data visualization\n- Implemented CI/CD pipelines with Jenkins and Azure DevOps, reducing deployment time by 60%\n- Collaborated with cross-functional teams in an Agile/Scrum environment\n- Technologies: Python, JavaScript, React, Django, Azure, Jenkins, SQL Server"
+    },
+    {
+      "company": "Acme Startup Inc.",
+      "title": "Junior Developer",
+      "dates": {
+        "start_date": "Aug 2016",
+        "end_date": "May 2018"
+      },
+      "description": "- Developed full-stack web applications using Node.js and Angular\n- Designed and maintained MySQL databases serving 50K+ daily active users\n- Wrote comprehensive unit tests achieving 90% code coverage using Jest and Mocha\n- Technologies: JavaScript, Node.js, Angular, MySQL, HTML, CSS"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "degree": "Master of Science in Computer Science",
+      "dates": {
+        "start_date": "Aug 2014",
+        "end_date": "Jun 2016"
+      },
+      "gpa": "3.92",
+      "details": "Aug 2014 - Jun 2016\nGPA: 3.92/4.0\nRelevant Coursework: Machine Learning, Distributed Systems, Algorithms, NLP"
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science in Information Technology",
+      "dates": {
+        "start_date": "Aug 2010",
+        "end_date": "May 2014"
+      },
+      "gpa": "3.78",
+      "details": "Aug 2010 - May 2014\nGPA: 3.78/4.0"
+    }
+  ],
+  "projects": "Open-Source Log Analyzer\n- Built a Python CLI tool for analyzing server logs using regex and NLP techniques\n- Implemented real-time streaming with Apache Kafka integration\n- Published on PyPI with 2K+ downloads; available on GitHub\n\nE-Commerce Recommendation Engine\n- Designed a collaborative filtering recommendation system using Scikit-learn\n- Deployed as a REST API using FastAPI on AWS Lambda\n- Achieved 25% increase in user engagement metrics",
+  "certifications": "- AWS Certified Solutions Architect - Associate (2023)\n- Google Cloud Professional Data Engineer (2022)\n- Certified Kubernetes Administrator (CKA) (2021)",
+  "awards": "- Google Peer Bonus Award for exceptional cross-team collaboration (2022)\n- Microsoft Hackathon Winner - Best Developer Tools Category (2019)",
+  "languages": "- English (Native)\n- Spanish (Conversational)\n- Mandarin (Basic)",
+  "interests": null,
+  "organizations_detected": [
+    "Google",
+    "Microsoft",
+    "LinkedIn",
+    "Senior Software",
+    "Google LLC",
+    "Microsoft Corporation",
+    "Acme Startup Inc",
+    "Distributed Systems",
+    "AWS Certified Solutions"
+  ],
+  "degrees_detected": [
+    "Master of Science in",
+    "Computer Science",
+    "Bachelor of Science in",
+    "Information Technology"
+  ],
+  "universities_detected": [
+    "Stanford University",
+    "University of California, Berkeley"
+  ],
+  "raw_sections": {
+    "header": "John Michael Anderson\nSenior Software Engineer\nEmail: john.anderson@email.com | Phone: +1-415-555-0198\nLinkedIn: linkedin.com/in/john-m-anderson | GitHub: github.com/jmanderson\nPortfolio: https://john...",
+    "summary": "Results-driven software engineer with 7+ years of experience designing, developing, and\ndeploying scalable web applications. Proficient in Python, JavaScript, and cloud\ntechnologies. Passionate about ...",
+    "experience": "Senior Software Engineer | Google LLC | Jan 2021 - Present\n- Led development of a high-throughput data pipeline processing 10M+ events/day using Python and Apache Kafka\n- Architected microservices on ...",
+    "education": "Master of Science in Computer Science\nStanford University\nAug 2014 - Jun 2016\nGPA: 3.92/4.0\nRelevant Coursework: Machine Learning, Distributed Systems, Algorithms, NLP\n\nBachelor of Science in Informat...",
+    "skills": "Programming: Python, JavaScript, TypeScript, Go, SQL, HTML, CSS\nFrameworks: React, Angular, Django, Flask, Node.js, Express.js, FastAPI\nData & ML: Pandas, NumPy, Scikit-learn, TensorFlow, NLP\nDatabase...",
+    "projects": "Open-Source Log Analyzer\n- Built a Python CLI tool for analyzing server logs using regex and NLP techniques\n- Implemented real-time streaming with Apache Kafka integration\n- Published on PyPI with 2K+...",
+    "certifications": "- AWS Certified Solutions Architect - Associate (2023)\n- Google Cloud Professional Data Engineer (2022)\n- Certified Kubernetes Administrator (CKA) (2021)",
+    "awards": "- Google Peer Bonus Award for exceptional cross-team collaboration (2022)\n- Microsoft Hackathon Winner - Best Developer Tools Category (2019)",
+    "languages": "- English (Native)\n- Spanish (Conversational)\n- Mandarin (Basic)"
+  }
+}

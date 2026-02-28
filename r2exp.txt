@@ -1,0 +1,29 @@
+[
+  {
+    "company": "Amazon",
+    "title": "Data Scientist",
+    "dates": {
+      "start_date": "Mar 2022",
+      "end_date": "Present"
+    },
+    "description": "- Developed customer churn prediction model using XGBoost and Random Forest, achieving\n92% accuracy and saving $2M annually in retention costs\n- Built automated ETL pipelines using PySpark and Airflow processing 500GB+ daily data\n- Created interactive Tableau dashboards for C-suite executives to monitor KPIs\n- Conducted A/B testing and statistical analysis to optimize recommendation algorithms\n- Tools: Python, PySpark, TensorFlow, Tableau, AWS (S3, SageMaker, Redshift)"
+  },
+  {
+    "company": "Infosys",
+    "title": "Junior Data Analyst",
+    "dates": {
+      "start_date": "Jul 2020",
+      "end_date": "Feb 2022"
+    },
+    "description": "- Performed exploratory data analysis on customer behavior data using Pandas and Matplotlib\n- Developed SQL queries and stored procedures for data extraction and reporting\n- Built sentiment analysis models using NLTK and spaCy for social media monitoring\n- Automated weekly reporting workflows, reducing manual effort by 15 hours/week\n- Tools: Python, SQL, Excel, Power BI, NLTK"
+  },
+  {
+    "company": "IIT Bombay",
+    "title": "Research Intern",
+    "dates": {
+      "start_date": "Jan 2020",
+      "end_date": "Jun 2020"
+    },
+    "description": "- Assisted in NLP research project on multi-lingual text classification\n- Implemented BERT-based models using HuggingFace Transformers library\n- Co-authored paper published in ACL Workshop 2020\n- Tools: Python, PyTorch, HuggingFace, Linux"
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "file": "sample_resume_2.txt",
+  "candidate_name": "Priya Sharma",
+  "contact": {
+    "emails": [
+      "priya.sharma92@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "linkedin": "https://linkedin.com/in/priya-sharma-ds",
+    "github": null,
+    "websites": []
+  },
+  "summary": "Analytical and detail-oriented Data Scientist with 4+ years of experience in machine learning,\nstatistical modeling, and data analysis. Skilled at transforming complex datasets into actionable\nbusiness insights. Experienced in building end-to-end ML pipelines from data collection to\nmodel deployment.",
+  "skills": {
+    "CS Fundamentals": [
+      "Algorithms"
+    ],
+    "Cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "Data/ML": [
+      "Apache Spark",
+      "Computer Vision",
+      "Data Engineering",
+      "Deep Learning",
+      "Hadoop",
+      "HuggingFace",
+      "Keras",
+      "Machine Learning",
+      "Matplotlib",
+      "NLP",
+      "NLTK",
+      "NumPy",
+      "OpenCV",
+      "Pandas",
+      "Power BI",
+      "PyTorch",
+      "Scikit-learn",
+      "Tableau",
+      "TensorFlow",
+      "spaCy"
+    ],
+    "Database": [
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "DevOps/Tools": [
+      "Apache",
+      "Docker",
+      "Linux"
+    ],
+    "Framework": [
+      "Flask"
+    ],
+    "Programming": [
+      "C",
+      "Java",
+      "Python",
+      "R",
+      "SQL"
+    ],
+    "Tools": [
+      "Excel"
+    ]
+  },
+  "skills_list": [
+    "AWS",
+    "Algorithms",
+    "Apache",
+    "Apache Spark",
+    "C",
+    "Computer Vision",
+    "Data Engineering",
+    "Deep Learning",
+    "Docker",
+    "Excel",
+    "Flask",
+    "GCP",
+    "Hadoop",
+    "HuggingFace",
+    "Java",
+    "Keras",
+    "Linux",
+    "Machine Learning",
+    "Matplotlib",
+    "MongoDB",
+    "MySQL",
+    "NLP",
+    "NLTK",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PostgreSQL",
+    "Power BI",
+    "PyTorch",
+    "Python",
+    "R",
+    "Redis",
+    "SQL",
+    "Scikit-learn",
+    "Tableau",
+    "TensorFlow",
+    "spaCy"
+  ],
+  "experience": [
+    {
+      "company": "Mar 2022 - Present",
+      "title": "Data Scientist at Amazon",
+      "dates": {
+        "start_date": "Mar 2022",
+        "end_date": "Present"
+      },
+      "description": "- Developed customer churn prediction model using XGBoost and Random Forest, achieving\n92% accuracy and saving $2M annually in retention costs\n- Built automated ETL pipelines using PySpark and Airflow processing 500GB+ daily data\n- Created interactive Tableau dashboards for C-suite executives to monitor KPIs\n- Conducted A/B testing and statistical analysis to optimize recommendation algorithms\n- Tools: Python, PySpark, TensorFlow, Tableau, AWS (S3, SageMaker, Redshift)"
+    },
+    {
+      "company": "Jul 2020 - Feb 2022",
+      "title": "Junior Data Analyst at Infosys",
+      "dates": {
+        "start_date": "Jul 2020",
+        "end_date": "Feb 2022"
+      },
+      "description": "- Performed exploratory data analysis on customer behavior data using Pandas and Matplotlib\n- Developed SQL queries and stored procedures for data extraction and reporting\n- Built sentiment analysis models using NLTK and spaCy for social media monitoring\n- Automated weekly reporting workflows, reducing manual effort by 15 hours/week\n- Tools: Python, SQL, Excel, Power BI, NLTK"
+    },
+    {
+      "company": "Jan 2020 - Jun 2020",
+      "title": "Research Intern at IIT Bombay",
+      "dates": {
+        "start_date": "Jan 2020",
+        "end_date": "Jun 2020"
+      },
+      "description": "- Assisted in NLP research project on multi-lingual text classification\n- Implemented BERT-based models using HuggingFace Transformers library\n- Co-authored paper published in ACL Workshop 2020\n- Tools: Python, PyTorch, HuggingFace, Linux"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Delhi",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "dates": {
+        "start_date": "2016",
+        "end_date": "2020"
+      },
+      "gpa": "9.1",
+      "details": "2016 - 2020\nCGPA: 9.1/10.0"
+    }
+  ],
+  "projects": "Fake News Detection System\n- Built an NLP pipeline using BERT and TensorFlow for classifying news articles\n- Achieved 96% F1-score on benchmark dataset\n- Deployed as a Chrome extension with Flask backend\n\nSmart Traffic Management\n- Applied computer vision (OpenCV + YOLO) for real-time vehicle detection\n- Optimized traffic signal timing using reinforcement learning\n- Reduced average wait time by 30% in simulation",
+  "certifications": "- AWS Certified Machine Learning Specialty (2023)\n- Google Data Analytics Professional Certificate (2021)\n- Deep Learning Specialization - Coursera (Andrew Ng) (2020)",
+  "awards": null,
+  "languages": null,
+  "interests": "- Open-source contribution\n- Competitive programming\n- Technical blogging",
+  "organizations_detected": [
+    "Google",
+    "Amazon",
+    "LinkedIn",
+    "Infosys"
+  ],
+  "degrees_detected": [
+    "B.Tech",
+    "Computer Science"
+  ],
+  "universities_detected": [
+    "Indian Institute of Technology, Delhi"
+  ],
+  "raw_sections": {
+    "header": "Priya Sharma\nData Scientist\npriya.sharma92@gmail.com\n+91 98765 43210\nlinkedin.com/in/priya-sharma-ds",
+    "summary": "Analytical and detail-oriented Data Scientist with 4+ years of experience in machine learning,\nstatistical modeling, and data analysis. Skilled at transforming complex datasets into actionable\nbusines...",
+    "experience": "Data Scientist at Amazon | Mar 2022 - Present\n- Developed customer churn prediction model using XGBoost and Random Forest, achieving\n  92% accuracy and saving $2M annually in retention costs\n- Built a...",
+    "education": "B.Tech in Computer Science and Engineering\nIndian Institute of Technology, Delhi\n2016 - 2020\nCGPA: 9.1/10.0",
+    "skills": "Languages: Python, R, SQL, Java\nML/AI: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, NLP, Deep Learning\nData Tools: Pandas, NumPy, Matplotlib, Apache Spark, Hadoop\nVisualization: Tableau, Power BI...",
+    "certifications": "- AWS Certified Machine Learning Specialty (2023)\n- Google Data Analytics Professional Certificate (2021)\n- Deep Learning Specialization - Coursera (Andrew Ng) (2020)",
+    "projects": "Fake News Detection System\n- Built an NLP pipeline using BERT and TensorFlow for classifying news articles\n- Achieved 96% F1-score on benchmark dataset\n- Deployed as a Chrome extension with Flask back...",
+    "interests": "- Open-source contribution\n- Competitive programming\n- Technical blogging"
+  }
+}
