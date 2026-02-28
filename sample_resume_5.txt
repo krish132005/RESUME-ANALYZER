@@ -1,0 +1,41 @@
+Name: Rahul Sharma
+SENIOR SOFTWARE DEVELOPER
+CONTACT
+Phone: +91 93456 78901
+Email: rahul.sharma.dev@gmail.com
+Location: New Delhi, India
+LinkedIn: https://www.linkedin.com/in/rahulsharma-dev
+GitHub: https://github.com/rahulsharma-dev
+Portfolio: https://rahulsharma.dev
+EDUCATION
+Bachelor of Technology in Computer Science
+IIT, Delhi (Graduated: May 2017)
+KEY SKILLS
+Languages: JavaScript (ES6+), Python, Java, SQL
+Frameworks/Tools: React, Node.js Django, Flask, Docker
+DevOps: AWS (Lambda, S3, EC2), CI/CD (Jenkins, Github Actions)
+Database Management: Post-greSQL, MongoDB, Redis
+Other Skills: Agile/Scrum, Test-Driv-en Development (TDD), RESTful APIs
+HOBBIES/INTERESTS (OPTIONAL)
+Open-source contributions on GitHub with 200+ stars.
+Regular participant in coding challenges and hackathons
+PROFESSIONAL SUMMARY
+Innovative and detail-oriented Software Developer with 5+ years of experi ence in building scalable web applications and optimizing performance for enterprise-level solutions. Proficient in full-stack development with exper tise in JavaScript, Python, and AWS. Delivered impactful projects that improved user engagement by 30% and reduced system downtime by 40%. Passionate about writing clean, efficient, and maintainable code while mentoring junior developers.
+PROFESSIONAL EXPERIENCE
+Senior Software Developer
+TechNova Inc. (June 2020-Present)
+Engineered a real-time analytics platform using Node.js and React.
+processing 1M+ requests per day with 99.99% uptime.
+Reduced load times by 25% through optimization of front-end and back-end systems.
+Led migration of legacy systems to AWS Cloud, achieving a 40% reduction in infrastructure costs.
+Mentored 5 junior developers, fostering knowledge-sharing and best practices.
+Software Developer
+Innovatech Solutions (July 2017-May 2020)
+Developed a microservices-based architecture for an e-commerce platform, scaling operations by 50%.
+Integrated third-party APIs for payment and shipping systems, ensuring seamless functionality.
+Automated repetitive tasks using Python scripts, saving 200+ work hours annually.
+ACHIEVEMENTS & CERTIFICATIONS
+AWS Certified Solutions Architect-Associate (2022)
+Microsoft Certified: Azure Fundamentals (2021)
+Winner, Hackathon 2023, for developing an Al-powered chatbot for customer support.
+Shine.com. All rights reserved.
